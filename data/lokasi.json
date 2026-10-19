@@ -1,0 +1,113 @@
+[
+  {
+    "id": "contoh-01",
+    "nama": "[CONTOH] Bank Sampah Titik 1 (area Gubeng)",
+    "lat": -7.2756,
+    "lng": 112.7508,
+    "alamat": "Alamat contoh, area Gubeng, Surabaya",
+    "jenis": "bank sampah",
+    "plastik_diterima": ["PET", "HDPE", "PP", "kresek"],
+    "jam_buka": "Sabtu 08.00–11.00 (contoh)",
+    "kontak": "contoh@example.com",
+    "terverifikasi": false
+  },
+  {
+    "id": "contoh-02",
+    "nama": "[CONTOH] Bank Sampah Titik 2 (area Tegalsari)",
+    "lat": -7.2681,
+    "lng": 112.7361,
+    "alamat": "Alamat contoh, area Tegalsari, Surabaya",
+    "jenis": "bank sampah",
+    "plastik_diterima": ["PET", "HDPE"],
+    "jam_buka": "Minggu 07.00–10.00 (contoh)",
+    "terverifikasi": false
+  },
+  {
+    "id": "contoh-03",
+    "nama": "[CONTOH] TPS3R Titik 3 (area Rungkut)",
+    "lat": -7.3195,
+    "lng": 112.7802,
+    "alamat": "Alamat contoh, area Rungkut, Surabaya",
+    "jenis": "TPS3R",
+    "plastik_diterima": ["PET", "HDPE", "PP", "kresek", "sachet", "styrofoam"],
+    "jam_buka": "Senin–Jumat 08.00–15.00 (contoh)",
+    "terverifikasi": false
+  },
+  {
+    "id": "contoh-04",
+    "nama": "[CONTOH] Pengepul Titik 4 (area Wonokromo)",
+    "lat": -7.3010,
+    "lng": 112.7365,
+    "alamat": "Alamat contoh, area Wonokromo, Surabaya",
+    "jenis": "pengepul",
+    "plastik_diterima": ["PET", "HDPE", "PP"],
+    "jam_buka": "Setiap hari 08.00–16.00 (contoh)",
+    "terverifikasi": false
+  },
+  {
+    "id": "contoh-05",
+    "nama": "[CONTOH] Bank Sampah Titik 5 (area Kenjeran)",
+    "lat": -7.2340,
+    "lng": 112.7765,
+    "alamat": "Alamat contoh, area Kenjeran, Surabaya",
+    "jenis": "bank sampah",
+    "plastik_diterima": ["PET", "kresek", "sachet"],
+    "jam_buka": "Rabu & Sabtu 15.00–17.00 (contoh)",
+    "terverifikasi": false
+  },
+  {
+    "id": "contoh-06",
+    "nama": "[CONTOH] TPS3R Titik 6 (area Benowo)",
+    "lat": -7.2405,
+    "lng": 112.6430,
+    "alamat": "Alamat contoh, area Benowo, Surabaya",
+    "jenis": "TPS3R",
+    "plastik_diterima": ["PET", "HDPE", "PP", "kresek"],
+    "jam_buka": "Senin–Sabtu 07.00–14.00 (contoh)",
+    "terverifikasi": false
+  },
+  {
+    "id": "contoh-07",
+    "nama": "[CONTOH] Bank Sampah Titik 7 (area Lakarsantri)",
+    "lat": -7.3100,
+    "lng": 112.6560,
+    "alamat": "Alamat contoh, area Lakarsantri, Surabaya",
+    "jenis": "bank sampah",
+    "plastik_diterima": ["PET", "HDPE", "PP"],
+    "jam_buka": "Minggu 08.00–11.00 (contoh)",
+    "terverifikasi": false
+  },
+  {
+    "id": "contoh-08",
+    "nama": "[CONTOH] Bank Sampah Titik 8 (area Waru, Sidoarjo)",
+    "lat": -7.3540,
+    "lng": 112.7240,
+    "alamat": "Alamat contoh, area Waru, Sidoarjo",
+    "jenis": "bank sampah",
+    "plastik_diterima": ["PET", "HDPE", "kresek"],
+    "jam_buka": "Sabtu 09.00–12.00 (contoh)",
+    "terverifikasi": false
+  },
+  {
+    "id": "contoh-09",
+    "nama": "[CONTOH] TPS3R Titik 9 (area Sidoarjo Kota)",
+    "lat": -7.4470,
+    "lng": 112.7180,
+    "alamat": "Alamat contoh, area Sidoarjo Kota, Sidoarjo",
+    "jenis": "TPS3R",
+    "plastik_diterima": ["PET", "HDPE", "PP", "kresek", "sachet"],
+    "jam_buka": "Senin–Jumat 08.00–15.00 (contoh)",
+    "terverifikasi": false
+  },
+  {
+    "id": "contoh-10",
+    "nama": "[CONTOH] Pengepul Titik 10 (area Candi, Sidoarjo)",
+    "lat": -7.4900,
+    "lng": 112.7050,
+    "alamat": "Alamat contoh, area Candi, Sidoarjo",
+    "jenis": "pengepul",
+    "plastik_diterima": ["PET", "HDPE", "PP", "styrofoam"],
+    "jam_buka": "Setiap hari 08.00–17.00 (contoh)",
+    "terverifikasi": false
+  }
+]
