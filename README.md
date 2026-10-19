@@ -116,7 +116,7 @@ Tautan ke formulir nanti bisa ditambahkan di bagian `<footer>` pada `index.html`
 2. Di **Build and deployment → Source**, pilih **Deploy from a branch**.
 3. Pilih branch **`main`** dan folder **`/ (root)`**, lalu **Save**.
 4. Tunggu 1–2 menit. Situs akan tersedia di
-   **`https://kuronos168.github.io/map-sampah/`**.
+   **`https://kuronos168.github.io/zero-plastic/`**.
 
 Setiap kali ada perubahan di branch `main`, situs otomatis diperbarui.
 

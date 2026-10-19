@@ -1,4 +1,4 @@
-# CLAUDE.md – Zero Plastic (map-sampah)
+# CLAUDE.md – Zero Plastic (zero-plastic)
 
 ## Goal
 Free website for "Zero Plastic", a student social campaign in Indonesia. After the
@@ -7,7 +7,7 @@ drop-off point (bank sampah, TPS3R, pengepul) from `data/lokasi.json` and links 
 Google Maps directions.
 
 ## Hard constraints
-- Static site only, hosted on GitHub Pages (served under the `/map-sampah/` subpath).
+- Static site only, hosted on GitHub Pages (served under the `/zero-plastic/` subpath).
   No server, no backend, no build step.
 - No paid APIs and no API keys in the code (the repo is public).
 - Map: Leaflet + OpenStreetMap tiles, loaded from a CDN (unpkg, pinned version with
